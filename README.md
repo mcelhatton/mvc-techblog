@@ -6,7 +6,7 @@
 
 ### Application Deployment
 
-https://mvc-tech-blog.herokuapp.com/
+https://morning-bastion-57510.herokuapp.com
 
 ### Application Screenshot
 
